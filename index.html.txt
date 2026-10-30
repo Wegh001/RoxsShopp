@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="az">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>PUBG Hesab Alqı-Satqı | Etibarlı Vasitəçi</title>
+<style>
+:root{--bg:#b3121b;--bg2:#8c0d14;--card:rgba(0,0,0,.28);--text:#fff;--muted:#ffd9db;--accent:#ffd400;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#8c0d14;--bg2:#5e0a0f}}
+*{box-sizing:border-box}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+body{margin:0;font-family:system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;background:linear-gradient(160deg,var(--bg),var(--bg2));background-color:var(--bg);color:var(--text);min-height:100vh;line-height:1.55}
+.wrap{max-width:900px;margin:0 auto;padding:20px 18px}
+header{text-align:center;padding:48px 0 32px}
+h1{font-size:clamp(28px,7vw,48px);margin:0 0 12px;letter-spacing:.5px}
+h1 span{color:var(--accent)}
+p.lead{color:var(--muted);font-size:18px;margin:0 auto 24px;max-width:560px}
+.btn{display:inline-block;background:var(--accent);color:#1a1a1a;font-weight:700;text-decoration:none;padding:14px 26px;border-radius:12px;font-size:18px;margin:6px}
+.btn.alt{background:transparent;color:var(--text);border:2px solid var(--text)}
+h2{text-align:center;margin:40px 0 18px;font-size:26px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:14px}
+.card{background:var(--card);border-radius:16px;padding:20px}
+.card h3{margin:0 0 8px;color:var(--accent)}
+.card p{margin:0;color:var(--muted)}
+ul{padding-left:20px;color:var(--muted)}
+.contact{text-align:center;background:var(--card);border-radius:20px;padding:28px 18px;margin:40px 0}
+.num{display:block;font-size:clamp(28px,8vw,44px);font-weight:800;color:var(--accent);text-decoration:none;margin:10px 0 16px}
+footer{text-align:center;color:var(--muted);font-size:14px;padding:20px 0 30px}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+<h1>PUBG <span>Hesab</span> Alqı-Satqı</h1>
+<p class="lead">Təhlükəsiz və etibarlı vasitəçilik. Hesabını sat, yeni hesab al – hər şey şəffaf və sürətli.</p>
+<a class="btn" href="tel:0709644595">📞 Zəng et</a>
+<a class="btn alt" href="https://wa.me/994709644595">WhatsApp</a>
+</header>
+
+<h2>Xidmətlərimiz</h2>
+<div class="grid">
+<div class="card"><h3>Hesab alqısı</h3><p>İstədiyin səviyyədə və skinlərlə PUBG hesabı tap.</p></div>
+<div class="card"><h3>Hesab satqısı</h3><p>Hesabını sürətli və düzgün qiymətə sat.</p></div>
+<div class="card"><h3>Vasitəçilik</h3><p>Alıcı və satıcı arasında təhlükəsiz əməliyyat təşkil edirəm.</p></div>
+</div>
+
+<h2>Necə işləyir?</h2>
+<div class="grid">
+<div class="card"><h3>1. Əlaqə</h3><p>Mənə zəng et və ya yaz, nə istədiyini de.</p></div>
+<div class="card"><h3>2. Razılaşma</h3><p>Hesab və qiymət üzrə razılaşırıq.</p></div>
+<div class="card"><h3>3. Təhvil</h3><p>Vasitəçi vasitəsilə təhlükəsiz təhvil və ödəniş.</p></div>
+</div>
+
+<h2>Təhlükəsizlik məsləhətləri</h2>
+<div class="card"><ul>
+<li>Ödənişi yalnız vasitəçi vasitəsilə et.</li>
+<li>Hesab məlumatlarını təhvildən əvvəl heç kimlə paylaşma.</li>
+<li>Təhvildən sonra şifrəni və bağlı e-poçtu dərhal dəyiş.</li>
+</ul></div>
+
+<div class="contact">
+<h2 style="margin-top:0">Əlaqə</h2>
+<p style="color:var(--muted);margin:0">İstənilən vaxt yaz və ya zəng et:</p>
+<a class="num" href="tel:0709644595">070 964 45 95</a>
+<a class="btn" href="tel:0709644595">📞 Zəng et</a>
+<a class="btn alt" href="https://wa.me/994709644595">WhatsApp</a>
+</div>
+<footer>© PUBG Hesab Alqı-Satqı</footer>
+</div>
+</body>
+</html>
